@@ -1,0 +1,36 @@
+PROJECT TITLE:RESTIC
+Introduction
+Restic  is a backup program that is used to backup the files.
+It is used by iphone,application,rest api etc
+It is used in different storage including self-hosting and online services.
+Easily:it is easily backup the files.
+Effectively:it is used upload individual files.
+Securely: it is used for cryptpgraphy in each process.
+Versionality: it is used to make the changes and upload the saved backup files.
+Freely: it is entirely free as it is opensource.
+
+Project summary
+website	https://restic.net//
+
+organisation	Restic open source community
+license	“BSD -2 –CLAUSE”
+Project analysis
+Key features
+1.installation: we can install using install open page or “GitHub download page”
+2.contribution: it helps in contributing from any part of the project.
+3.repository: repository are created to upload the content of the project.
+It also help the user to save their backed up data in the repository.
+4.collaboration: we can collaborate  the resources so that it is easy to complete the task.
+PROJECT ARCHITECTURE
+
+Current usage 
+•	RESTIC
+•	REST-SERVER
+•	CHUNKER 
+•	REST.NET
+•	REST API
+
+COMPARISON BETWEEN OTHER PROJECTS
+
+Restic is entirely free as it is open source whereas brog  is the paid source as it cannot be free.
+Restic is relatively efficient and the user can save the backed up files. Whereas brog cannot be backed up easily.
